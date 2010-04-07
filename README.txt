@@ -5,12 +5,33 @@ v0.0.1, April 2010
 == Designregeln ==
 
 === Schaltzeichen ===
+# Rasterauswahl: 50mil
 
 ==== Referenz ====
+# Feldwert: 
 # Platzierung: Oben, links am Bauteil.
-# Horizontale Ausrichtung: 
+# Abstand zum Rand des Schaltzeichens: 25mil
+# Horizontale Ausrichtung: _Links ausrichten_
+# Vertikale Ausrichtung: _Unten ausrichten_
+# Größe: 0,04"
 
-=== Footprints ===
+==== Wert ====
+# Feldwert: Bauteilbezeichnung
+# Platzierung: Unten, links am Bauteil.
+# Abstand zum Rand des Schaltzeichens: 25mil
+# Horizontale Ausrichtung: _Links ausrichten_
+# Vertikale Ausrichtung: _Oben ausrichten_
+# Größe: 0,04"
+
+==== Pin ====
+# Platzierung
+## Abstand zu anderen Pins: 100mil
+## Abstand zum Rand des Schaltzeichens: 50mil
+# Größe der Beschriftung: 0,025"
+# Größe der Nummerierung: 0,05"
+# Länge: 0,2"
+
+=== Module/Footprints ===
 
 === 3D-Wings ===
 
