@@ -1,7 +1,11 @@
-== KiCad-Bibliotheken ==
+= KiCad-Bibliotheken =
+
+== Dokumentation ==
+Die aktuelle Dokumentation liegt im AsciiDoc-Format footnote:[http://www.methods.co.nz/asciidoc/] vor. Alle anderen Formate (PDF, HTML, DocBook, etc.) können daraus generiert werden.
 
 == Designregeln ==
-# 
+
+=== 
 
 == Bibliotheken ==
 
