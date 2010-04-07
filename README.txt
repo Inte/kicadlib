@@ -1,11 +1,19 @@
 = KiCad-Bibliotheken =
+Tobias Kral <tobias@kral.ws>
+v0.0.1, April 2010
 
 == Dokumentation ==
-Die aktuelle Dokumentation liegt im AsciiDoc-Format footnote:[http://www.methods.co.nz/asciidoc/] vor. Alle anderen Formate (PDF, HTML, DocBook, etc.) können daraus generiert werden.
+Die aktuelle Dokumentation liegt im AsciiDoc-Format
+footnote:[http://www.methods.co.nz/asciidoc/] vor. Alle anderen Formate (PDF,
+HTML, DocBook, etc.) kÃ¶nnen daraus generiert werden.
 
 == Designregeln ==
 
-=== 
+=== Schaltzeichen ===
+
+=== Footprints ===
+
+=== 3D-Wings ===
 
 == Bibliotheken ==
 
@@ -23,4 +31,5 @@ Creative Commons Zero 1.0 ::
 	http://creativecommons.org/publicdomain/zero/1.0
 ----
 // vim: set syntax=asciidoc:
+// vim: set enc=utf8:
 ----
