@@ -4,7 +4,7 @@ v0.0.1, April 2010
 
 == Designregeln ==
 
-=== Schaltzeichen ===
+=== component ===
 # Rasterauswahl: 50mil
 
 ==== Referenz ====
@@ -31,7 +31,7 @@ v0.0.1, April 2010
 # Größe der Nummerierung: 0,05"
 # Länge: 0,2"
 
-=== Module/Footprints ===
+=== module ===
 
 === 3D-Wings ===
 
@@ -70,6 +70,17 @@ HTML, DocBook, etc.) können daraus generiert werden.
 *Verwendete Tools*
 * http://www.vim.org/[Vim]
 * http://code.google.com/p/msysgit/[mysysgit - Git on Windows]
+
+[glossary]
+component::
+	Schematisches Symbol oder Schaltzeichen - Ein standardisiertes grafisches
+Symbol zur Darstellung von Elementen in einem elektrischen Schaltplan. Es
+behinhaltet alle Informationen zu den elektrischen Anschlüssen (Pins), sowie
+deren Eigenschaften (Eingang, Ausgang, Spannungsversorgung, etc.). In Deutschland
+sind sie durch die DIN EN 60617 genormt.
+
+module::
+	Footprint oder land pattern - Detaillierte Informationen zu Bauform und Abmessungen der Elemente, sowie die Lage und Größe der zugehörigen Lötaugen.
 
 ----
 // vim: set syntax=asciidoc:
