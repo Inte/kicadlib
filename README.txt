@@ -67,6 +67,10 @@ HTML, DocBook, etc.) können daraus generiert werden.
 
 * http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
 
+*Verwendete Tools*
+* http://www.vim.org/[Vim]
+* http://code.google.com/p/msysgit/[mysysgit - Git on Windows]
+
 ----
 // vim: set syntax=asciidoc:
 // vim: set enc=utf8:
