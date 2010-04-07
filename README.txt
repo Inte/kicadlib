@@ -80,7 +80,9 @@ deren Eigenschaften (Eingang, Ausgang, Spannungsversorgung, etc.). In Deutschlan
 sind sie durch die DIN EN 60617 genormt.
 
 module::
-	Footprint oder land pattern - Detaillierte Informationen zu Bauform und Abmessungen der Elemente, sowie die Lage und Größe der zugehörigen Lötaugen.
+	Footprint oder land pattern - Detaillierte Informationen zu Bauform und
+Abmessungen der Elemente, sowie die Lage und Größe der zugehörigen
+Lötaugen.
 
 ----
 // vim: set syntax=asciidoc:
