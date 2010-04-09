@@ -72,6 +72,8 @@ HTML, DocBook, etc.) können daraus generiert werden.
 * http://code.google.com/p/msysgit/[mysysgit - Git on Windows]
 
 [glossary]
+http://kicad.sourceforge.net/wiki/index.php/Circuit_board_CAD_Terms[Circuit board CAD Terms]
+
 component::
 	Schematisches Symbol oder Schaltzeichen - Ein standardisiertes grafisches
 Symbol zur Darstellung von Elementen in einem elektrischen Schaltplan. Es
